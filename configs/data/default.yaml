@@ -1,0 +1,31 @@
+batch_size: 2
+num_workers: 6
+
+weight_xe: False
+
+slices_per_rotation: 5
+
+save_test_preds: False
+eval_in_online_setup: True
+ 
+use_semantics: True
+use_instances: False
+
+clipfeat: True
+
+feature_aug: True
+full_feature_aug: True
+
+n_hierarchy: 2
+split_hierarchy:
+  - [3, 2, 2]
+  - [3, 3, 2]
+
+voxel_res:
+  - 1.8
+  - 8 #degrees
+  - 0.6666
+
+temporal_scan_sequence: [-5,-10]
+
+DEBUG: False

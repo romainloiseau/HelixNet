@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>SemKITTI_CCcolorscale</name>
+            <uuid>{1e19fea5-d058-40ca-8e9b-aa65fd0388e1}</uuid>
+            <absolute>1</absolute>
+            <minValue>0</minValue>
+            <range>9</range>
+        </Properties>
+        <Data>
+            <step r="20" g="20" b="20" pos="0"/>
+            <step r="255" g="0" b="255" pos="0.111111111111"/>
+            <step r="75" g="0" b="75" pos="0.222222222222"/>
+            <step r="50" g="200" b="255" pos="0.333333333333"/>
+            <step r="0" g="175" b="0" pos="0.444444444444"/>
+            <step r="150" g="240" b="255" pos="0.555555555556"/>
+            <step r="245" g="150" b="100" pos="0.666666666667"/>
+            <step r="255" g="215" b="0" pos="0.777777777778"/>
+            <step r="30" g="30" b="255" pos="0.888888888889"/>
+            <step r="255" g="0" b="0" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>
