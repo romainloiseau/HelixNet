@@ -89,7 +89,7 @@ If you use this dataset and/or this API in your work, please cite our [paper](pa
 @article{loiseau22online,
   title={Online Segmentation of LiDAR Sequences: Dataset and Algorithm.},
   author={Romain Loiseau and Mathieu Aubry and Loïc Landrieu},
-  journal={arXiv},
+  journal={arXiv:2206.08194},
   month={June},
   year={2022}
 }
