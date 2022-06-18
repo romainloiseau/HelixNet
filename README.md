@@ -25,9 +25,9 @@ rotation and position, as well as the points’ release time.
 
 - **Download** 
 
-The dataset can be downloaded from [Zenodo](https://zenodo.org/deposit/6519817)
+The dataset can be downloaded from [Zenodo](https://zenodo.org/record/6519817#.Yq30V3VBzRL)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6519817.svg)](https://zenodo.org/deposit/6519817)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6519817.svg)](https://zenodo.org/record/6519817#.Yq30V3VBzRL)
 
 
 - **Data loading** 
