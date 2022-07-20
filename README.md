@@ -1,6 +1,7 @@
 <div align="center">
 
 # <img src="media/mysmallhelix.gif" width="50"> HelixNet Toolbox <img src="media/mysmallhelix.gif" width="50">
+<h1>ECCV 2022 &nbsp;&nbsp;&nbsp;&nbsp;  <img src="media/ECCV-logo3.png" width="120"></h1>
 
 ![helixnet_sequences](media/helixnet_sequences.png)
 
