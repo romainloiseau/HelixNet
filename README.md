@@ -46,6 +46,8 @@ This repository contains:
 
 - **Visualization and Usage** 
 
+Each point is associated with the 9 following values: (1-3) Cartesian coordinates in a fixed frame of a reference, (4-6) cylindrical coordinate relative to the sensor at the time of acquisition, (7) intensity, (8) fiber index, and (9) packet output time.
+
 See our notebooks in `/demos` for examples of data manipulation and several visualization functions for semantic segmentation.
 
 ## Leaderboard
